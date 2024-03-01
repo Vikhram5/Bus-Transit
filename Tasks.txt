@@ -1,0 +1,17 @@
+Completed tasks
+
+Bus count for one route 
+OD Matrix - tripwise_schedulewise
+OD Matrix - Boarding Time
+Passenger Count Loading profile(In progress)
+
+To do 
+For all seven days 
+Small web app Flask 
+Loading profile 
+Occupancy ratio
+
+Requirements 
+pandas 2.0.3
+matplotlib 3.7.2
+numpy 1.24.3
